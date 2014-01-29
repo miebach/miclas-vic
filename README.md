@@ -1,9 +1,9 @@
 miclas-vic
 ==========
 
-Inoffizielle Sammlung und Dokumentation zu MiCLAS VIC, der Trigger Sprache des MiCLAS ERP von ERP4All.
+Inoffizielle Sammlung und Dokumentation zu MiCLAS VIC, der Trigger Sprache des MiCLAS ERP.
 
-Offizieller Support und Vertrieb beim Hersteller: http://erp4all.com
+Offizieller Support und Vertrieb beim Hersteller ERP4all Business Software GmbH: http://erp4all.com
 
 
 VIC-Dokumentation:
