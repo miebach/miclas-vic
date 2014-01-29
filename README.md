@@ -9,4 +9,4 @@ Offizieller Support und Vertrieb beim Hersteller: http://erp4all.com
 VIC-Dokumentation:
 =================
 
-https://github.com/miebach/miclas-vic/wiki
+https://github.com/miebach/miclas-vic/wiki/_pages
